@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+.bgBlue{
+    background-color: #52a6fa;
+}
+
+.bgGrey{
+    background-color: #dddee0;
+}
+
+.bgOrange{
+    background-color: #f49017;
+}
